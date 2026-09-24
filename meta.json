@@ -1,0 +1,23 @@
+{
+  "repo": "realvnc-universal",
+  "product": "RealVNC Universal",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "remote-access",
+  "topics": [
+    "realvnc",
+    "realvnc-windows",
+    "remote-access-desktop",
+    "how-to-install-realvnc",
+    "realvnc-desktop-package",
+    "realvnc-workspace",
+    "realvnc-pro-tools",
+    "realvnc-suite",
+    "zentool-realvnc",
+    "realvnc-tool-9"
+  ],
+  "site": "zentool.art"
+}
